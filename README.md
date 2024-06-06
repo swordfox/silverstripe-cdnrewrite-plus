@@ -5,8 +5,8 @@ Provides a simple method of rewriting the URLs of assets and resources to allow 
 See the configuration notes below for an example of how to set this module up.
 
 # Requirements
-*Silverstripe 4.x
-*Silverstripe 5.x
+* Silverstripe 4.x
+* Silverstripe 5.x
 
 # Installation
 * Install the code with `composer require swordfox/silverstripe-cdnrewrite-plus "^1"`
