@@ -1,0 +1,24 @@
+{
+    "name": "swordfox/silverstripe-cdnrewrite-plus",
+    "description": "Automatically rewrites the URLs of media and assets to use a CDN",
+    "type": "silverstripe-vendormodule",
+    "homepage": "https://github.com/swordfox/silverstripe-cdnrewrite-plus",
+    "keywords": [
+        "silverstripe",
+        "cdn"
+    ],
+    "authors": [
+        {
+            "name": "Graham McLellan",
+            "email": "graham@swordfox.nz"
+        }
+    ],
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "Swordfox\\CDNRewritePlus\\": "src/"
+        }
+    },
+    "extra": {},
+    "minimum-stability": "dev"
+}
